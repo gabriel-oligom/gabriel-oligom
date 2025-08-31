@@ -38,6 +38,14 @@
 
 📂 [Repositório](https://github.com/gabriel-oligom/newspring-email-app)
 
+#### 3. Weatherly: Weather Data API
+- API REST em Flask para consulta de dados meteorológicos históricos
+- Extrai dados de arquivos de texto e processa com Pandas
+- Permite listar estações meteorológicas e consultar dados por estação e data
+- Exibe tabela de estações em página HTML simples
+
+📂 [Repositório](https://github.com/gabriel-oligom/weatherly-data-api)
+
 ---
 
 ### 🔧 Skills Aplicadas
@@ -51,7 +59,7 @@
 
 ### O que estou aprendendo
 
-No momento estou desenvolvendo a API Weatherly com Flask, praticando endpoints REST, manipulação de dados climáticos com Pandas e praticando estruturação de back-end escalável e eficiente.
+Atualmente estou desenvolvendo um projeto de web scraping para extrair dados de tours de um site, utilizando Python e SQL.
 
 ---
 
