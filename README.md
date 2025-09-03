@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel! 👋
 
-🧑🏻‍💻 Futuro Desenvolvedor Back-End  
-🚀 Tecnologias que uso: Python, Flask, REST APIs, Streamlit, HTML, Git, GitHub, Markdown, VSCode  
+🧑🏻‍💻 Desenvolvedor Back-End  
+🚀 Tecnologias que uso: Python, Flask, REST APIs, SQL, SQLite, Streamlit, HTML, Git, GitHub, Markdown, VSCode  
 💡 Explorando backend, automação, web, integração de sistemas e soluções escaláveis    
 🌱 Aprendendo, criando projetos e buscando desafios que façam evoluir
 
@@ -46,20 +46,30 @@
 
 📂 [Repositório](https://github.com/gabriel-oligom/weatherly-data-api)
 
+#### 4. TourTracker
+- Aplicação Python para web scraping de shows com notificação automática por e-mail
+- Extrai dados de uma página de tours usando Selectorlib
+- Armazena os eventos em SQLite, evitando duplicatas
+- Notifica automaticamente quando novos shows são encontrados via SMTP/SSL
+- Variáveis de ambiente protegidas com dotenv
+
+📂 [Repositório](https://github.com/gabriel-oligom/tour-tracker-scraping)
+
 ---
 
 ### 🔧 Skills Aplicadas
-🐍 Python | 🌐 Flask | 💻 Backend Web Development
+
+🐍 Python | 🌐 Flask | 💾 SQL / SQLite
+
+🔄 REST APIs | 📧 Automação de e-mails | 🔑 Manipulação de Dados
 
 🗂️ Git & GitHub | ☁️ Deploy Cloud | 👑 Streamlit
-
-🔄 REST APIs | 📧 Automação de e-mails | 💾 Persistência de dados
 
 ---
 
 ### O que estou aprendendo
 
-Atualmente estou desenvolvendo um projeto de web scraping para extrair dados de tours de um site, utilizando Python e SQL.
+Atualmente estou reforçando conceitos de orientação a objetos e iniciando um projeto de sistema de reservas de assentos.
 
 ---
 
