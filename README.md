@@ -69,7 +69,7 @@
 
 ### O que estou aprendendo
 
-Atualmente estou reforçando conceitos de orientação a objetos e iniciando um projeto de sistema de reservas de assentos.
+Atualmente, estou me aprofundando em programação orientada a objetos e aplicando os conceitos em um projeto de um sistema de reserva de assentos. O projeto está sendo desenvolvido com Python, FastAPI e PostgreSQL, e estou praticando o uso de Docker para gerenciar o ambiente de desenvolvimento.
 
 ---
 
