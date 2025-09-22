@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel! 👋
 
 🧑🏻‍💻 Desenvolvedor Back-End  
-🚀 Tecnologias que uso: Python, Flask, REST APIs, SQL, SQLite, Streamlit, HTML, Git, GitHub, Markdown, VSCode  
+🚀 Tecnologias que uso: Python, FastAPI, Flask, PostgreSQL, Docker, SQLAlchemy, Pydantic, REST APIs, SQLite, Streamlit, HTML, Git, GitHub, Markdown, VSCode  
 💡 Explorando backend, automação, web, integração de sistemas e soluções escaláveis    
 🌱 Aprendendo, criando projetos e buscando desafios que façam evoluir
 
@@ -9,7 +9,10 @@
 
 ### 🛠 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -55,21 +58,12 @@
 
 📂 [Repositório](https://github.com/gabriel-oligom/tour-tracker-scraping)
 
----
+#### 5. 🎟️ Reservio: Event Reservation System (Em desenvolvimento)
+- Sistema de reserva de eventos com gestão de assentos
+- APIs RESTful modernas com FastAPI, PostgreSQL e Docker
+- Projeto em evolução para praticar SQLAlchemy, Pydantic e boas práticas de backend
 
-### 🔧 Skills Aplicadas
-
-🐍 Python | 🌐 Flask | 💾 SQL / SQLite
-
-🔄 REST APIs | 📧 Automação de e-mails | 🔑 Manipulação de Dados
-
-🗂️ Git & GitHub | ☁️ Deploy Cloud | 👑 Streamlit
-
----
-
-### O que estou aprendendo
-
-Atualmente, estou me aprofundando em programação orientada a objetos e aplicando os conceitos em um projeto de um sistema de reserva de assentos. O projeto está sendo desenvolvido com Python, FastAPI e PostgreSQL, e estou praticando o uso de Docker para gerenciar o ambiente de desenvolvimento.
+📂 [Repositório](https://github.com/gabriel-oligom/event-reservation-system)
 
 ---
 
